@@ -1,5 +1,5 @@
-input1 = 'forloops'  #both inputs
-input2 = 'forhoop' 
+input1 = input()  #both inputs
+input2 = input() 
 expected = []
 actual = []
 quiet = False
